@@ -1,4 +1,5 @@
 LLC-Photoshop
 =============
 
-Ladies Learning Code Photoshop Slides
+
+These are the slides for the LLC Intro to Photoshop and Illustrator. 
